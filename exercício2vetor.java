@@ -22,7 +22,4 @@ public class exercício2vetor {
             JOptionPane.showMessageDialog(null,""+v[cont]);
         }
     }
-
-}
-
 }
